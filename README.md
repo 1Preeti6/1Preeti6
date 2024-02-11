@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on strengthening **my programming skills.**
 
-- 🌱 I’m currently learning **programming.**
+- 🌱 I’m currently learning about **tools used in DevOps practices.**
 
 - 📫 How to reach me **preetilakhera089@gmail.com**
 
